@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Service - Log in app</title>
+<style>
+  body{font-family:Arial,sans-serif;max-width:800px;margin:40px auto;padding:0 20px;line-height:1.6;color:#333}
+  h1{color:#111} h2{color:#444;border-bottom:1px solid #ddd;padding-bottom:4px;margin-top:32px}
+  .updated{color:#777;font-size:0.9em}
+</style>
+</head>
+<body>
+<h1>Terms of Service (Terma Perkhidmatan)</h1>
+<p class="updated">Kemas kini terakhir: 21 September 2026</p>
+
+<p>Selamat datang ke <strong>Log in app</strong> ("Aplikasi"). Dengan menggunakan Aplikasi ini, anda bersetuju dengan terma yang dinyatakan di bawah.</p>
+
+<h2>1. Perihal Aplikasi</h2>
+<p>Log in app ialah aplikasi login peribadi yang membolehkan pengguna log masuk menggunakan akaun TikTok mereka melalui TikTok Login Kit yang rasmi.</p>
+
+<h2>2. Penerimaan Terma</h2>
+<p>Dengan menggunakan Aplikasi, anda mengakui telah membaca dan bersetuju dengan Terma Perkhidmatan ini serta Dasar Privasi kami.</p>
+
+<h2>3. Penggunaan TikTok Login</h2>
+<ul>
+  <li>Anda mesti mematuhi Terma Perkhidmatan TikTok dan Dasar Privasi TikTok.</li>
+  <li>Aplikasi hanya mengakses maklumat profil asas yang anda benarkan semasa kebenaran (nama pengguna dan avatar).</li>
+  <li>Kami tidak menyimpan atau mengakses kata laluan TikTok anda.</li>
+</ul>
+
+<h2>4. Tanggungjawab Pengguna</h2>
+<ul>
+  <li>Menyediakan maklumat yang benar.</li>
+  <li>Menjaga kerahsiaan sesi log masuk anda.</li>
+  <li>Tidak menggunakan Aplikasi untuk aktiviti yang menyalahi undang-undang.</li>
+</ul>
+
+<h2>5. Penafian Waranti</h2>
+<p>Aplikasi ini disediakan "sebagaimana adanya". Kami tidak memberi waranti tersurat atau tersirat.</p>
+
+<h2>6. Had Tanggungjawab</h2>
+<p>Kami tidak bertanggungjawab atas kerugian yang timbul daripada penggunaan Aplikasi ini.</p>
+
+<h2>7. Pengubahsuaian Terma</h2>
+<p>Kami berhak mengemas kini terma ini pada bila-bila masa. Perubahan dimaklumkan di halaman ini.</p>
+
+<h2>8. Hubungi Kami</h2>
+<p>E-mel: faridfhbr@gmail.com</p>
+</body>
+</html>
